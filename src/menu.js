@@ -1,5 +1,4 @@
-import { factoryDiv } from "./factory";
-import { factoryImage } from "./factory";
+import { factoryDiv, factoryImage } from "./factory";
 import cocacola from '/assets/cocacola.jpeg';
 import coffeeImg from '/assets/coffee.jpeg';
 import energyDrinkImg from '/assets/energyDrink.jpeg'
