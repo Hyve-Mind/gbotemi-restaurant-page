@@ -1,5 +1,4 @@
-import { factoryDiv } from "./factory";
-import { factoryImage } from "./factory";
+import { factoryDiv, factoryImage } from "./factory";
 import theRestaurant from "/assets/Therestaurant.jpeg"
 export const homePage = (function(){
     const home = factoryDiv('home');
