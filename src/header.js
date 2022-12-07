@@ -1,5 +1,5 @@
-import { factoryDiv } from "./factory";
-import { factoryBtn } from "./factory";
+import { factoryDiv, factoryBtn } from "./factory";
+
 
 export let header = (function header() {
     const headerDiv = factoryDiv('header','');
